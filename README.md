@@ -1,6 +1,6 @@
 # Image_Captioning
 ## Introduction
-VGG19 was used to train custom dataset.
+VGG19 was used to train on custom dataset.
 ## Dataset
 10000 images were produced each with dimensions 28 by 280 with 10 random digits in each 28 by 28 image with label being the number present in the image.
 ## Model Architecture: VGG19
