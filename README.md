@@ -1,4 +1,4 @@
-# Image_captioning
+# Image_Captioning
 ## Introduction
 VGG19 was used to train custom dataset.
 ## Dataset
